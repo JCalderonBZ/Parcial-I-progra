@@ -18,6 +18,7 @@ namespace ParcialCalderon1
         }
         // Jose Alfredo Calderon Bermudez
         //Parcial 1  USIS054821
+        // :)
         private void btnConvertirConversores_Click(object sender, EventArgs e)
         {
             {
